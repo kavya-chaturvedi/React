@@ -1,0 +1,25 @@
+.heading {
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 5px solid black;
+}
+
+.morning {
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 5px solid yellowgreen;
+  color: yellowgreen;
+}
+.afternoon {
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 5px solid goldenrod;
+  color: goldenrod;
+}
+
+.night {
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 5px solid darkblue;
+  color: darkblue;
+}
